@@ -1,5 +1,1 @@
-# Learning-Hub![Screenshot (313)](https://user-images.githubusercontent.com/82117484/177181583-9161098f-e5bb-46bc-88ff-61f9550d34d3.png)
-![Screenshot (314)](https://user-images.githubusercontent.com/82117484/177181699-98939513-fac6-445c-9b42-517fc415838d.png)
-![Screenshot (315)](https://user-images.githubusercontent.com/82117484/177181725-77cdd60f-731f-4f57-8f96-088c16cdfc64.png)
-![Screenshot (316)](https://user-images.githubusercontent.com/82117484/177181736-46435dcc-b741-4f5e-a9cf-6e7470389523.png)
-![Screenshot (317)](https://user-images.githubusercontent.com/82117484/177181743-9839c20e-9bcf-4a24-a56a-8610b4231cbd.png)
+# Learning-Hub!
